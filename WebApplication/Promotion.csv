@@ -1,0 +1,4 @@
+PromotionID,PromotionName,PromotionType,EffectiveDate,Active
+1,Senior,Type1,12/4/2015,TRUE
+2,junior,Type2,13-6-2016,TRUE
+3,Most senior,Type3,17-8-2016,TRUE

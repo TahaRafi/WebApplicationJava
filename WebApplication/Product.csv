@@ -1,0 +1,4 @@
+ProductId,ProductName,ParentTypeID,Active
+1,ketchup,1,TRUE
+2,Chocolate,2,TRUE
+3,Biscuit,3,TRUE

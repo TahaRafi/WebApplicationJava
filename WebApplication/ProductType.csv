@@ -1,0 +1,4 @@
+ProductTypeID,ProductTypeName,ParentProductTypeID
+1,ketchup,1
+2,maggi,2
+3,biscuit,3

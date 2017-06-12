@@ -1,0 +1,4 @@
+AddressID,AddressType,RecipientName,AddressField1,AddressField2,ZipCode,City,Country,Active
+1,a,taha,serena Tower,sakhi hasan,33333,karachi,Pakistan,TRUE
+2,b,abubakar,Bahadrabad,north karachi,4444,karachi,Pakistan,TRUE
+3,c,Sarim,expo center,northnazimabad,5555,karachi,Pakistan,TRUE
